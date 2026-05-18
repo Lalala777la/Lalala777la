@@ -1,7 +1,7 @@
 # Hi, I'm Li 👋
 
 ## 🚀 About Me
-- 👨‍🎓 **Student** @ 南京邮电大学通达学院 | Software Engineering (2023-2027)
+- 👨‍🎓 **Student** | Software Engineering (2023-2027)
 - 💻 **Aspiring Frontend Developer** | Vue.js Enthusiast
 - 🌱 Currently learning React and advanced frontend optimization
 - 🎯 Goal: Build user-friendly, performant web applications
